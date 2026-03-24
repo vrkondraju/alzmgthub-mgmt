@@ -38,7 +38,7 @@ custom_replacements = {
     # Resource group names
     management_resource_group_name               = "rg-management-$${starter_location_01}"
     connectivity_hub_primary_resource_group_name = "rg-hub-$${starter_location_01}"
-    dns_resource_group_name                      = "rg-hub-dns-$${starter_location_01}"
+    dns_resource_group_name                      = "rg-hub-dns"
     ddos_resource_group_name                     = "rg-hub-ddos-$${starter_location_01}"
     asc_export_resource_group_name               = "rg-asc-export-$${starter_location_01}"
     service_health_alerts_resource_group_name    = "rg-service-health-alerts-$${starter_location_01}"
